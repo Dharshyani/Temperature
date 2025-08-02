@@ -1,12 +1,37 @@
-# React + Vite
+# 🌡️ Temperature Control App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek and modern temperature control interface built with **React** and styled using **advanced CSS** techniques like **glassmorphism**, **neumorphism**, and **animated aurora backgrounds**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 🔼 Increase or decrease temperature with stylish + / - buttons
+- 🟦 Temperature indicator changes **color** (Blue, Brown, Orange) based on the range
+- 🎨 Advanced **CSS UI design** with:
+  - Glassmorphism container
+  - Aurora-style animated background
+  - Neon gradient buttons with ripple effect
+  - Hover & active interaction effects
+- 💯 Responsive and mobile-friendly layout
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📚 Technologies Used
+
+| Tech | Description |
+|------|-------------|
+| [React.js](https://reactjs.org) | Frontend framework |
+| CSS3 | Styling and animations |
+| Google Fonts | Clean modern typography (`Outfit`) |
+
+
+## 🛠️ Installation
+
+To run the project locally:
+
+```bash
+git clone https://github.com/Dharshyani/Temperature.git
+cd Temperature
+npm install
+npm start
